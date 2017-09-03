@@ -1,0 +1,1 @@
+* Some devices will accept \n\r (when strings read from file), others not
